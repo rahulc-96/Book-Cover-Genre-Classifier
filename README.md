@@ -122,7 +122,7 @@ Once the CNN model has been trained over the entire data set, the computer model
 
 
 <h4>For further reading</h4>
-
+Source Colab Notebook : https://colab.research.google.com/drive/13ih4o1VsTDTuJkOT7JJk0oEiXShFE37e?usp=sharing
 Introduction to Google Colab: https://colab.research.google.com/notebooks/intro.ipynb
 <br>
 Keras API: https://keras.io/api/
